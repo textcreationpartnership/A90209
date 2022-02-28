@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The independent's loyalty. Or, The most barbarous plot (to murther his sacred Majestie) very fully discovered. With a cleere and perfect answer, to the Lord Wharton's evasions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90209</idno>
+            <idno type="STC">Wing O528</idno>
+            <idno type="STC">Thomason E452_25</idno>
+            <idno type="STC">ESTC R203027</idno>
+            <idno type="EEBO-CITATION">99863130</idno>
+            <idno type="PROQUEST">99863130</idno>
+            <idno type="VID">115312</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90209)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115312)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E452[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The independent's loyalty. Or, The most barbarous plot (to murther his sacred Majestie) very fully discovered. With a cleere and perfect answer, to the Lord Wharton's evasions.</title>
+                  <author>Osborne, Richard, fl. 1648.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, anno Domini 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes letters from Richard Osborne, to whom the whole is sometimes attributed.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: [Latin]; "July 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wharton, Philip Wharton, --  Baron, 1613-1696.</term>
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115312:1" rendition="simple:additions"/>
+            <p>THE Independent's Loyalty. OR, The moſt Barbarous Plot (to Mur<g ref="char:EOLhyphen"/>ther his ſacred MAjESTIE) very fully Diſcovered.</p>
+            <p>WITH A cleere and perfect Anſwer, to the Lord WHARTON'S Evaſions.</p>
+            <q>Vir <hi>Sapit</hi> qui pauca loquitur.</q>
+            <p>Printed, <hi>Anno Domini</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:115312:2"/>
+            <head>Truth drawn out of a Saw-pit.</head>
+            <p>VICE hath an ugly Viſage, and is ſo conſcious thereof unto it ſelfe, that it alwaies keepes in the darke; and will never appeare in its own colours unto the World: Nay, the more tranſcendent it is, the more it hardneth its brow with impudence to outbrave all Teſtimony and conceale it ſelfe. Wee have of late a cleere inſtance of this truth in thoſe perſons who were of the Coun<g ref="char:EOLhyphen"/>cell or did conceale the reſolution to murther his Majeſty.</p>
+            <p>The fact is ſo horrid that the Law of this Kingdome hath made all fences againſt it poſſible; The Lawyers doe account in the Notion of the law: That the leaſt attempt or endeavor which doth but look that way, is interpreted as if the wickedneſſe were accompliſhed, becauſe the perſons which would be ſo wick<g ref="char:EOLhyphen"/>ed as to begin, could never thinke themſelves ſecure, but by the perfection of that villanie; as the Lord chiefe Juſtice <hi>Popham,</hi> and the reſt of the Judges in the caſe of <hi>Robt.</hi> Earle of <hi>Eſſex</hi> in the reign of Queen <hi>Eliz.</hi> nay in other Kingdoms where Prin<g ref="char:EOLhyphen"/>ces have beene jealous, the verie dreame of it hath beene made Capitall, and the reaſon given of it; that they would never have Dreamt of it in their ſleepe, if ſometimes they had not thought of it when they were awake.</p>
+            <p>And though a worke of ſuch darkneſſe very ſeldome nath had more light (being teſtified by the oath of one witneſſe, if not more, and confirmed by varietie of circumſtances and as ſtrong preſumptions as ſuch a caſe can afford:) Yet wee ſee with what a brow of Braſſe Cap. <hi>Rolfe</hi> durſt preſent himſelfe to the houſe, how confidently Col. <hi>Hammond</hi> writes on his behalfe, how boldly the Lo. <hi>Wharton</hi> dares anticipate the world and himſelfe: firſt publiſh the letters which were ſent unto him and the houſe of Lords with a deluſive anſwer. All of them decry the fact (if you will take their words,) as boldly as the whore in the Proverbs, <hi>who wiped her mouth, and ſaid what evill have I done:</hi>
+               <pb n="2" facs="tcp:115312:3"/>
+Therefore that wee may take off the maske, and expoſe the bu<g ref="char:EOLhyphen"/>ſineſſe and Perſons to the world to bee Judged of; wee ſhall.</p>
+            <p n="1">1. Set down the Letters.</p>
+            <p n="2">2. Give you a Character of the perſons mentioned in them.</p>
+            <p n="3">3. A Narrative of the matter of Fact, and the proceedings thereupon.</p>
+            <p n="4">4. Anſwer the Lord <hi>Whartons</hi> Vindication.</p>
+            <p n="5">5. And laſtly, draw ſome neceſſarie Inferences or Corolla<g ref="char:EOLhyphen"/>ries, which we ſhall confirme by further evidences; In all which wee promiſe ſo much Candor and Integrity as not to ſwerve a tittle from the truth, ſo farre as our Information (which I have ſeverely endeavered to bottome well) ſhall hold out.</p>
+            <div type="part">
+               <div type="letter">
+                  <head>The Letter to the Lord Wharton June the firſt.</head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>
+                     <hi>THOUGH I cannot but imagine I ſtand ſo highly condem<g ref="char:EOLhyphen"/>ned in your Lordſhippes and many perſons thoughts, that any thing of vindication from me muſt come with all the diſadvantage and perjudice that may be; yet (my Lord) being conſcious of my owne integrity, and confident that I ſhall be judged by your Lord<g ref="char:EOLhyphen"/>ſhippe by no other Rules but thoſe of juſtice and reaſon, I cannot doubt but when I have diſcovered the grounds and reaſons of my Actions, that it will appeare to your Lordſhippe, that what I have done hath been agreeable to the ſeverall duties I ſtand ingaged in, as I am ſuppoſed to have acted contrary before I am heard.</hi>
+                  </p>
+                  <p>
+                     <hi>Not to detaine your Lordſhip in circumſtances, I ſhall make this Proteſtation, that as no other thing but the danger of the Kings life could in reaſon excuſe ſuch attempt. So I doe proteſt that no infe<g ref="char:EOLhyphen"/>riour conſideration did or could have moved to ſuch an action: But my Lord having had ſuch particular and well grounded informati<g ref="char:EOLhyphen"/>on, that ſo horrid a deſigne was intended and moved from thoſe that could when they pleaſed have had the power to put it in execution; I hope I ſhall not be cenſured for having poſt poſed all other conſide<g ref="char:EOLhyphen"/>rations to that Loyalty which cannot be queſtioned but I owe to the King.</hi>
+                  </p>
+                  <p>
+                     <hi>But not to leave your Lordſhippe unſatisfied with this generall ac<g ref="char:EOLhyphen"/>count, the intelligence I ſpeak of, concerning this deſigne, I received
+<pb n="3" facs="tcp:115312:3"/>
+from Captaine</hi> Rolfe, <hi>a perſon very intimate with the Governour, privy to all Counſells and one that is very high in the eſteem of the Army; he my Lord, informed me that to his knowledge the Governor had received ſeverall Letters from the Army, intimating they de<g ref="char:EOLhyphen"/>ſired the King might by any meanes be removed out of the way, ei<g ref="char:EOLhyphen"/>ther by poyſon or otherwiſe; And that another time the ſame perſon perſwaded me to joyne with him in a deſigne to remove the King out of that Caſtle to a place of more ſecreſie proffering to take an Oath with me, and to doe it without the Governours privity, who he ſayd would not conſent for loſing the allowance of the Houſe; his pretence to this attempt was, That the King was in too publique a place, from whence hee might bee reſcued: But if hee might bee con<g ref="char:EOLhyphen"/>veyed into ſome place of ſecreſie hee ſaid wee might diſpoſe of his perſon, upon all occaſions, as wee thought fit; and this hee was confident wee could effect without the Governours privity. My Lord conſidering all theſe pregnant circumſtances I thinke it will appeare that there were, if there are no, ſuch intentions concerning his Majeſties perſon, as may well juſtifie my indeavours that have been made for his remove from ſo much danger: &amp; for my own part my Lord, I muſt be ſo plain as to declare concerning my own actings in relation to this buſineſſe, that had I not done this (having ſuch grounds) I muſt belive I had then verified all theſe aſperſions of di<g ref="char:EOLhyphen"/>ſloyalty and breach of Truſt, which I am contented to ſuffer from thoſe whoſe intereſt is perchance oppoſed to my indeavours to prevent ſuch damnable deſignes</hi>
+                  </p>
+                  <p>
+                     <hi>My Lord, I have ſpoken nothing heere but what I ſhall be ready to teſtifie upon Oath when ever I ſhall be called to it, with promiſe of Freedome and ſecurity, till then I muſt be content to ſupport all cenſures and ſatisfie my ſelfe with the vindication I receive from my owne conſcience.</hi>
+                  </p>
+                  <closer>
+                     <signed>I am your Lordſhips humble ſervant, <hi>Rich. Oſborne.</hi>
+                     </signed>
+                     <dateline>
+                        <date>1. June, 1648.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For the Right Honourable the Lord <hi>Wharton.</hi>
+                  </trailer>
+               </div>
+               <div type="letter">
+                  <pb n="4" facs="tcp:115312:4"/>
+                  <head>The Letter to the Earle of <hi>Mancheſter.</hi>
+                  </head>
+                  <p>I <hi>Did by a Letter of the firſt of June acquaint my Lord</hi> Wharton <hi>with what I ſend here incloſed, expecting it would before this have been communicated to both Houſes: what ſhould be the reaſon of concealing a buſineſſe af this nature I know not, except it be to give thoſe time that are concerned in it better to thinke of ſome ſtra<g ref="char:EOLhyphen"/>tagem to evade this diſcovery.</hi>
+                  </p>
+                  <p>
+                     <hi>I humbly deſire your Lordſhip upon ſight of this relation, to co<g ref="char:cmbAbbrStroke">̄</g>mu<g ref="char:EOLhyphen"/>nicate it to the Houſe of Peeres; which I ſhall be ready to atteſt up<g ref="char:EOLhyphen"/>on Oath on every particular, when ever their Lordſhips ſhall pleaſe to allow me that freedome and ſecurity which ought to be afforded to any Gentleman, and Chriſtian, in witneſſing a truth.</hi>
+                  </p>
+                  <closer>
+                     <salute>My Lord</salute> I am
+<signed>Your Lordſhips moſt humble ſervant, <hi>Richard Oſborne.</hi>
+                     </signed>
+                     <dateline>
+                        <date>June, 16. 1648,</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For the right Honourable the Lord <hi>Mancheſter</hi> Speaker of &amp;c.</trailer>
+               </div>
+            </div>
+            <div type="part">
+               <head>An account of the Perſons who are named</head>
+               <p>
+                  <list>
+                     <label>Rolfe.</label>
+                     <item>Captaine <hi>Rolfe</hi> (or rather Major <hi>Rolfe)</hi> is one of no great head-piece, but of a turbulent and buſie ſpirit, who for his zeale to new light, and activitie to promote that way; hath beene advanced from an obſcure condition (having beene bred but a poore ſhooe-maker, and as wee are informed, not yet out of his Apprentiſhip) to bee an Officer of the Army by the Lieut. Generall, and is imployed as a Councellor with, and a ſpie upon Col. <hi>Hammond,</hi> by the ſame perſon; for you muſt know that it is the cuſtome of <hi>Cromwell</hi> never to ſend a Whale without a Pi<g ref="char:EOLhyphen"/>lot Fiſh, nor preferre any Commander in Chiefe to a place of Eminencie and Truſt, but he pinneth one or two more peteets upon his ſleeve, who are to infuſe the fence of the Lieu. Gen. with the Junto into the Commander: keepe them in ſome awe and informe if they find any tendencie towards the diſadvantage
+<pb n="5" facs="tcp:115312:4"/>
+of thir private cauſe. And of this nature was Major <hi>Rolfe</hi> at the Iſle of <hi>Wight,</hi> who being a Cap. in Col. <hi>Hammonds</hi> Regi<g ref="char:EOLhyphen"/>ment when his Majeſtie was Jugled into that place, was ſent thither with his Company to bee a guard unto the King, and hath beene ever ſince at the governors elbow; and in a manner Deputy governor there.</item>
+                     <label>Mr. Oſ<g ref="char:EOLhyphen"/>borne.</label>
+                     <item>
+                        <p>Maſter <hi>Oſborne</hi> is of a good familie. Eldeſt ſonne to a Gen<g ref="char:EOLhyphen"/>tleman of good repute and eſtate, who hath beene a friend to the Parliament through this whole conteſtation.</p>
+                        <p>This young man hath beene in Armes alſo in their quarell, never obſerved guiltie of any perſonall vice; long known to the Lord <hi>Wharton,</hi> and was preferred unto the charge about his Ma<g ref="char:EOLhyphen"/>jeſtie, by that Lords power and intereſt.</p>
+                     </item>
+                     <label>Hammond</label>
+                     <item>The Governor, or Col. <hi>Hammond,</hi> is a younger brother, but hath ſome expectation from his Mother a widdowe, and a furious enemie unto his Majeſtie which drove him out at the beginning of theſe Warres into the ſervice, where untill the new Modell of this Army hee could aſcend to no higher pitch then a Major, hee hath had his hands in Murther already, and of one of his own party, for which being in <hi>Gloceſter</hi> likely to ſuffer, was helped off by Col. <hi>Maſſey</hi> whom hee hath requited well; But being afterwards taken notice of to bee ſtout enough, and pliable alſo, was taken into favor by the Lieut. Generall prefer<g ref="char:EOLhyphen"/>red to bee a Colonell, and when the deſigne was on foote to conveigh the King to the Iſle of <hi>Wight,</hi> by his power and inte<g ref="char:EOLhyphen"/>reſt, premiſed thither for his Majeſties entertainment.</item>
+                     <label>Lord Whar<g ref="char:EOLunhyphen"/>tons Cha<g ref="char:EOLhyphen"/>racter.</label>
+                     <item>The Lord <hi>Wharton</hi> is known well enough through all the Kingdome to have runne high in, and beene one of the prime heads of the Independents Juncto. Of a moſt inveterate ma<g ref="char:EOLhyphen"/>lice unto his Majeſtie and that againſt the bonds of gratitude; one that had a good minde to have done this Act with his own hand if the King had fallen into the Saw-pit where his Lordſhip hid himſelfe; but his Lordſhip finding that courſe dangerous, and being frighted at the Firſt ſight, quickly left it, and be<g ref="char:EOLhyphen"/>tooke himſelfe, to act in a ſafer way.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:115312:5"/>
+               <head>The Narrative of matter of Fact and procee<g ref="char:EOLhyphen"/>dings in this.</head>
+               <p>How long <hi>Rolfe</hi> had beene hatching this Villanie, who drew him in, or who hee had drawn into the deſigne; is known only to God and there conſciences. It was not many moneths after his firſt acquaintance with <hi>Oſborne,</hi> but hee threw out his lure: inſinuates the merit of the action, the meanes whereby it might bee done, and the Authoritie of the Armie which would pro<g ref="char:EOLhyphen"/>tect the Inſtrument, and invited him to bee one. But <hi>Oſborne</hi> being ſtartled with the horror of the Fact; imparts it to ſome better acquaintance of his in the Iſle, conſults with them what courſe is beſt to bee taken. It is reſolved to acquaint his Ma<g ref="char:EOLhyphen"/>jeſtie therewith and take his advice, where it is concluded: To diſcover it to any perſons in Command about the King, were to hale on the miſchife ſooner, and involve themſelves in the dan<g ref="char:EOLhyphen"/>ger; there could bee no way ſo ſafe to the Kings perſon nor more honourable for themſelves, then to deliver him from ſuch bloody hands; whereupon they provide horſes and Boates; deale with ſome Sentinells to winke at his paſſing, prepare his way by fretting an Iron barre with <hi>Aqua fortis</hi> in his windowe, to paſſe out by, and were readie to put it in execution. But one of the Sentinells diſcovering the deſigne, <hi>Oſborne</hi> flieth out of the Iſle, and ſo ſoone as hee can cleare himſelfe of the danger, writes firſt unto the Lord <hi>Wharton</hi> as you ſee; but after his Lordſhip had ſtifled this information longer then a fortnight, to diſcharge a good Conſcience towards God, performe his Allegiance to his Majeſtie, and duty to the Kingdome, he writes a letter to the Speaker of either houſe. That to the Houſe of Lords you may reade, that to the Houſe of Commons was the ſame upon the matter: Theſe being delivered on Saturday <hi>June</hi> 18. in the houſe of Commons, the ſpeaker takes an advantage of a thinne houſe, and which conſiſted of moſt that inclined his way, com<g ref="char:EOLhyphen"/>municates theſe letters, where after a little debate Major Gen. <hi>Skipon</hi> riſeth up and deſireth that <hi>Whereas this ſeemed to bee but an idle paper, it might not hinder their more ſerious affaires, which were before them, but bee laid aſide.</hi> Whereupon it was accor<g ref="char:EOLhyphen"/>dingly voted, and laid up in Lavender, with an intention to call
+<pb n="7" facs="tcp:115312:5"/>
+upon it at doomes day. Upon Monday the Lords (who in bu<g ref="char:EOLhyphen"/>ſineſſe of this conſequence give the houſe of Commons leave to make them a preſident) tooke the Letter into debate alſo, where the Lord <hi>Say</hi> ſtruck in preſently with Major <hi>Skipons</hi> motion. <hi>That it might bee laid aſide there too,</hi> and had neere obteined the ſame effect, but ſome Lords that had ſome ſparkes of ho<g ref="char:EOLhyphen"/>nour left within them, tooke ſo much courage as to preſſe the horror of the villanie, the duty of their places, and how much it would reflect upon their houſe if they ſhould neglect to make enquire after it. This wrought ſo much, the buſineſſe being foule upon the Lord <hi>Wharton.</hi> hee eſcaped impriſonment with ſome difficultie, the houſe of Commons are acquainted there<g ref="char:EOLhyphen"/>with, by which meanes the buſineſſe is reſumed into new debate in that houſe, many meſſages paſſe betweene the houſes: at laſt there is an Order concluded upon, for <hi>Oſburne</hi> to appeare and make good his accuſation at any time within fourtie daies, and this is commanded to bee publiſhed by the Sheriffe with as much pompe and ſhew of zeale, as little intention in the moſt, either to inquire into the Fact, puniſh the Authors, or Reſcue his Majeſtie from the like danger.</p>
+               <p>The Lord <hi>Wharton</hi> finding theſe tranſ-actions would ſee the Sun now, and having had experience that Copies would multi<g ref="char:EOLhyphen"/>ply if they were bought up too faſt (as he went once about to do by a Pamphlet which diſcovered another ignoble Action of his) ſteeres another courſe in the Compaſſe, and cauſeth the Let<g ref="char:EOLhyphen"/>ters to bee publiſhed himſelfe; but with an anſwere, whereby he might anticipate the credulity of the People, and make his own Defence among them. Not long after, Maſter <hi>Oſborne</hi> diſco<g ref="char:EOLhyphen"/>vers himſelfe; enters his Appearance; makes affidavit of his diſ<g ref="char:EOLhyphen"/>covery, and confirmes it by ſuch pregnant circumſtances, that moſt men are convinced of the truth: <hi>Rolfe,</hi> being by this time acquainted with the Paſſages, comes up unto the Houſe, pre<g ref="char:EOLhyphen"/>ſents himſelfe with a a Letter from the Governour, dated <hi>June</hi> 21. (which pleades his Caſe, denies the Deſigne (chargeth <hi>Oſ<g ref="char:EOLhyphen"/>borne</hi> with Treachery, and very much extolleth his owne care of his Duty and tender Uſage of his Majeſty, for which hee citeth his owne Teſtimony; not withſtanding, the Lords finde cauſe to commit <hi>Rolfe</hi> to ſafe cuſtody, where hee remaines untill he be
+<pb n="8" facs="tcp:115312:6"/>
+forgotten, or by the policy and ſtrength of his Partie quitted from the Charge, or releaſed out of Priſon.</p>
+            </div>
+            <div type="part">
+               <head>The Lord <hi>Whartons</hi> Anſwere examined.</head>
+               <p>His Lordſhips whole Anſwere may bee reduced unto foure heads, which ſhall bee brought unto the Teſt in their Order.</p>
+               <p>The firſt is, That <hi>Oſborne</hi> is a Traytor by the Lawe of the Land becauſe hee entertained communication, divers times, with one that intended to take away the Kings life, by Poyſon, about that Action and concealed it: whence hee would inferre That <hi>Oſ<g ref="char:EOLhyphen"/>borne</hi> is to have no credit given to his Teſtimony.</p>
+               <div type="section">
+                  <head>To this is Replyed.</head>
+                  <p>Firſt, That if the Letter of the Lawe were truly urged, yet it cannot reach <hi>Oſborne,</hi> becauſe firſt it is ſuppoſed the Lawe is in force and can take place where this Communication is had: Se<g ref="char:EOLhyphen"/>condly, The Perſons who are poſſeſſed of the Authority or Power, in that place, bee not guilty, nor acceſſary to the Treaſon.</p>
+                  <p>Thirdly, That the witneſſe can with ſafety of his owne life and the Kings, make his addreſſe to thoſe perſons: But let all <hi>England</hi> judge whether Lawe bee in force in that place where the King is kept in priſon, which is Treaſon in it ſelfe by the Lawe, and by Lawyers is interpreted a Deſigne againſt his Life: Where Souldiers (one of which once anſwered a Stateſ<g ref="char:EOLhyphen"/>man; <hi>What doe you talke to us of your Lawe that weare our Swords by our ſides?)</hi> rule all the Roſt.</p>
+                  <p>The perſons in moſt power there, were eyther Principalls or Acceſſories (in the moſt favourable conſtruction to be ſuſpected of it) In the Deſigne <hi>Rolfe</hi> was in command there, and Prin<g ref="char:EOLhyphen"/>cipall. The Governour in command of the Iſland in chiefe, and at leaſt likely to bee of the Councell. <hi>Rolfe</hi> ſuggeſted that hee had received Letters from the Army to that purpoſe, that hee was unwilling to concurre (not out of horror of the wicked<g ref="char:EOLhyphen"/>neſſe) but feare of his pay. Maſter <hi>Oſborne</hi> could not chooſe but underſtand by their familiarity that their intereſt was all
+<pb n="9" facs="tcp:115312:6"/>
+one, that ſuch Actions are never owned by all that are of the conſpiracy: Often times great men, who are the firſt movers, can ſtand behinde a Curtaine during execution of their owne Deſignes (and as the Ape that thruſt the Catts paw into the fire to take the Cheſnut out for his owne Palat) put an inferiour Inſtrument to act the diſgracefull or dangerous part of their contrivance. The ſuſpicion may bee great againſt the Governor, ſince hee pleades in his defence, and did himſelfe ſuppreſſe the Letter which <hi>Oſborne</hi> wrote to the Lord <hi>Wharton,</hi> which his Lordſhip tells his friends, and did tell the Houſe upon his Ho<g ref="char:EOLhyphen"/>nour, That hee ſent immediatly to <hi>Hammond,</hi> yet hee ſuppreſ<g ref="char:EOLhyphen"/>ſed for above ten daies without ſecuring <hi>Rolfe</hi> or acquainting the houſes therewith. Now let all the world Judge whether it had beene beſt for <hi>Oſborne</hi> in relation to the Kings ſafety, or his own, to complaine unto theſe men, or by holding them in ſuſpence for a while, in the meane time endeavour the pre<g ref="char:EOLhyphen"/>vention.</p>
+                  <p>2. Maſter <hi>Oſborne</hi> did reveale this, the hazard conſidered, as ſoone as hee could unto the Lord <hi>Wharton.</hi>
+                  </p>
+                  <p>3. Hee did reveale it to his Majeſty and ſome other who might aſſiſt him in the prevention thereof.</p>
+                  <p>4. Graunt that <hi>Oſborne</hi> were as guiltie as the Lord <hi>Wharton</hi> doth ſuggeſt, hee might as well be allowed for a competent wit<g ref="char:EOLhyphen"/>neſſe, as Maſter <hi>Edward Waller</hi> was againſt his brother <hi>Tomkins</hi> and others.</p>
+               </div>
+               <div type="section">
+                  <head>The ſecond head is.</head>
+                  <p>
+                     <hi>That</hi> Osborne <hi>did this not out of any intent of good or love unto the King, but to free himſelf from his perfidiouſneſſe to the truſt re<g ref="char:EOLhyphen"/>poſed in him by the Parliament, in his attempt to carry away the King (God knows whether) to the danger of his perſon, &amp; to procure for himſelfe libertie and fredome from Juſtice, which he fled from.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>To the Negative part hereof it is anſwered.</head>
+                  <p n="1">1. That is ſpoken <hi>Gratis,</hi> and upon his Lordſhips own preſumption,</p>
+                  <p n="2">2. Againſt common reaſon; can any man thinke the Gentle<g ref="char:EOLhyphen"/>man
+<pb n="10" facs="tcp:115312:7"/>
+ſhould run that hazzard, endure ſo much reproach; looſe ſo great friends, for one he wiſhed noe good, bare no affection unto?</p>
+                  <p n="3">3. Gaunt this for true, it agrues the conſcience of his Allegi<g ref="char:EOLhyphen"/>ance, and ſence of ſo great a ſinne to bee the more, in that hee would endure ſo much for to avoid it.</p>
+               </div>
+               <div type="section">
+                  <div n="1" type="subsection">
+                     <head>To the firſt part of the affiirmative wee Anſwer.</head>
+                     <p n="1">1. That every man ought to bee ſenſible of, and deſire to vin<g ref="char:EOLhyphen"/>dicate his honour from an unjuſt aſperſion, wee wiſh the Lord <hi>Wharton</hi> as able to doe that, as willing to quit himſelfe of the true charge.</p>
+                     <p n="2">2. That ſurely the matter of truſt which the Parliament and Generall repoſed in the Kings attendants, was not (I know not what it is in his Lordſhipps conſtructions) to aſſiſt in the Mur<g ref="char:EOLhyphen"/>ther of his Majeſtie, nor ſtand by ſpectators thereof, without his reſcue; but to uſe all meanes for preſervation thereof, which was done by him.</p>
+                     <p n="3">3. That all ſuperior truſt doth null and invalidate a ſubordi<g ref="char:EOLhyphen"/>nate ingagement when they are incompatible. Now whether a truſt which a man is oblieged to by expreſſe Oath (as that of Al<g ref="char:EOLhyphen"/>legiance to omit all other bonds doth or ſhould cauſe all Sub<g ref="char:EOLhyphen"/>jects to preſerve the life of there Prince) to a Supream Governor of the Kingdome, enjoyned by law, bee not firſt to bee ſatiſ<g ref="char:EOLhyphen"/>fied, before a verball promiſe (or perhaps but an implicit truſt) to fellow ſubjects, in a queſtionable if not unlawfull Action (as the impriſonment of the King is) let all wiſe men Judge.</p>
+                     <p n="4">4. That the intention of his Majeſtie might bee to come, and theſe Gentlemen to bring him up unto his Parliament for all is yet known: Hee hath often deſired that of late, and ſurely the Kingdome is convinced where the impediment is, as wee may gueſſe by their petitions.</p>
+                     <p n="5">5. That the Kings perſon could not poſſibly be at ſo much danger in the power of the grim Tartar or Turkiſh pirates, as in thoſe hands hee hath beene truſted, and it is eaſie for to prove it.</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <pb n="11" facs="tcp:115312:7"/>
+                     <head>To the ſecond part of the affiirmative wee anſwer.</head>
+                     <p n="1">1. That if it bee meant by his Lordſhips freedome and liber<g ref="char:EOLhyphen"/>tie to come into the face of Juſtice to make good his charge; that is granted, and we know not why it ſhould wring his Lordſhip ſo much unleſſe there bee ſome ſore thereabout.</p>
+                     <p n="2">2. That if it be generall libertie and freedom which his Lord<g ref="char:EOLhyphen"/>ſhip meanes, that cannot bee ſo; for in both his letters he limits his deſires of either, but to teſtifie that which hee had writ, and according to law bee admitted unto his Oath.</p>
+                     <p n="3">3. Hee fled not from the face of Juſtice, but violence and oppreſſion, ſo ſoone as that was but pretended unto; hee preſents himſelfe, unto it wee have had many examples of diſ<g ref="char:EOLhyphen"/>couragement, impriſonment, and plundring of ſuch as have for<g ref="char:EOLhyphen"/>merly offered their teſtimonies to truth of like nature, and hee could not bee blamed to fortifie himſelfe againſt the like.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <head>The third is That <hi>Osborne</hi> doth perſonate <hi>Rolfe</hi> onely as guiltie of the Act, and brings no other witneſſe. To which is Anſwered.</head>
+                     <p>That this was a worke of darkeneſſe, there are few admit<g ref="char:EOLhyphen"/>ed into ſuch Councells; for the moſt part one man is made the inſtrument: And when the villanie is done, hee diſpatched alſo that hee may tell no tales: Therefore in the Civill Law; <hi>Pre<g ref="char:EOLhyphen"/>ſumptio fortis in delictis ſecretis ſufficit pro probatione;</hi> In Crimes which are committed in ſecreſie, a ſtrong preſumption is a good proofe: But in this caſe heere is not the affirmation, but the oath and all other concurrence of circumſtances imaginable as ſhall heereafter bee fullie cleared.</p>
+                  </div>
+                  <div n="4" type="subsection">
+                     <head>The fourth is that <hi>Osborne</hi> was guiltie of that Action, of which hee accuſeth <hi>Rolfe,</hi> to carry away the King when as the Governor and <hi>Rolfe</hi> were active in the prevention thereof. To this is Anſwered.</head>
+                     <p>That hee would have done part of that Action; reſcue his Majeſtie from the place, but not the villanie: <hi>Rolfe</hi> his de<g ref="char:EOLhyphen"/>ſigne was to Murther; where there might bee no noiſe, noe
+<pb n="12" facs="tcp:115312:8"/>
+helpe preſſe in to the reſcue. <hi>Oſborne</hi> to deliver the King from that danger. It is no wonder that the Governor or <hi>Rolfe</hi> ſhould hinder it; that were to keepe the prey in their tallons ſtill, and the King in their own power and diſpoſition.</p>
+                     <p>Whereas his Lordſhip writes that <hi>Rolfe offered an oath of ſecre<g ref="char:EOLhyphen"/>ſie, but tooke it not; the Sentinells did notwithſtanding an oath diſ<g ref="char:EOLhyphen"/>cover it:</hi> I know not to what purpoſe that is inſerted, <hi>Cromwell</hi> the Sultan of the Faction, hath given teſtimony to all the world of how little obligation ſuch pettie to yes are, who is obſerved to make moſt fervent promiſes lard them deepeſt with impreca<g ref="char:EOLhyphen"/>tions and oathes, when hee meanes the contrarie, and is neereſt the execution thereof; and others have obſerved that they are allowed to take the Sacrament with you, make any oathes unto you, which they never intend to keepe, for the advantage of their cauſe; it was no wonder then, he neither accepted it from <hi>Rolfe,</hi> or found the Sentinell noe better principles.</p>
+                     <p>The Letter of the Governor is not worth an anſwer noe man could expect but hee muſt deny the Fact, if hee had beene Prin<g ref="char:EOLhyphen"/>cipall, or can thinke his cauſe the better, for either that his de<g ref="char:EOLhyphen"/>fending of <hi>Rolfe,</hi> or bitterneſſe againſt <hi>Oſborne,</hi> how hee hath dealt with his Majeſtie, after times will declare; there are witneſſes enough of his barbarous incivilities towards Him.</p>
+                     <p>If the King doe acquit him (as hee boaſteth) truely the grea<g ref="char:EOLhyphen"/>ter is his goodneſſe; Their whole gang will not afford a Pa<g ref="char:EOLhyphen"/>ralell.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Corollaries or Inferences are.</head>
+               <div n="1" type="inference">
+                  <p>1. <hi>That there was and is a deſigue in the Army to murther His Majeſty, if it bee not prevented by providence:</hi> And that there is ſo, is not only to be inferred from the ſuggeſtion of <hi>Rolfe,</hi> but multitudes of other people, of very many I ſhall preſent a few, and ſhall bee ready to make proofe of theſe and more if I may obtaine that Libertie which is afforded <hi>Oſborne.</hi>
+                  </p>
+                  <p>At the ſame time (to goe no higher) that the Armie preten<g ref="char:EOLhyphen"/>ded to right his Majeſty in their printed Propoſalls, wherein they preſſed his Majeſties perſon, his Queene and Royall Iſſue may bee reſtored to a condition of freedome honour and ſafety in this Kingdome without diminution to there perſonall rights.</p>
+                  <pb n="13" facs="tcp:115312:8"/>
+                  <p>There were many in the Army that urged his Majeſtie <hi>might bee decolled by them, and that there never could bee Peace in the Kingdome untill that were done:</hi> Their Grandees did daily diſ<g ref="char:EOLhyphen"/>courſe of the convenience, the advantage, and diſadvantage that might come to their cauſe thereby.</p>
+                  <p>In their march towards <hi>London.</hi> They give it out that if the King did declare againſt them <hi>they would quickly cut Him ſhort, that if they muſt periſh, they would upon him.</hi> A little after a member of the Army, Major <hi>Scot,</hi> did at Caverſham houſe in the preſence of the King ſpeake openly: <hi>That things could never be well untill that man</hi> (meaning his Majeſty) <hi>were ſhorter by the head,</hi> without puniſhment or reproſe of any of his Company; ſome Agitators were a while after that, taken by the watch, as they came late from ſupper and Councell, and being ſearched; Papers were found about them, wherein it was concluded <hi>to make away his Majeſty:</hi> And though theſe were delivered to Al<g ref="char:EOLhyphen"/>derman <hi>Wollaſton,</hi> yet the men were diſmiſſed and never further queſtioned. <hi>Rainſborough</hi> made no bones to preſſe this in Coun<g ref="char:EOLhyphen"/>cells of war and publique meetings. The Lieut. Generall himſelfe writ to Col. <hi>Whaley</hi> (as he confeſſed to ſome Comiſſioners) that he heard <hi>that there was a deſign againſt his life ſuddainly to be ex<g ref="char:EOLhyphen"/>ecuted upon him.</hi> Their Apoſtle Mr. <hi>Peters</hi> hath often belched out this Venome: <hi>That the King was the only grievance now left, that it was of noe difficultie to remove him, hee was but a dead dogg already.</hi> The Lieutenant Generall hath divers times himſelfe ſpoken words to that purpoſe, once <hi>Are the People ſo mad upon a King, they ſhall have a May-pole for their King, as ſoone as him again.</hi> At his firſt acceſſe to the King, coming down Sir <hi>John Cutts</hi> his ſtaires neere <hi>Cambridge,</hi> ſhaking his head hee ſaid; <hi>This Man is not fit to reigne:</hi> This was more then King <hi>Henry</hi> the fourth did ſpeake to encourage <hi>Tyrrell</hi> to aſſaſſine King <hi>Rich.</hi> the ſecond</p>
+                  <p>Nay the Generall himſelfe cannot be excuſed from ſome con<g ref="char:EOLhyphen"/>currence, his Lordſhip being taxed by ſome Miniſters, that there was ſuch Indulgence ſhewed to the King and Malignants, an<g ref="char:EOLhyphen"/>ſwered, <hi>Oh they need not joy in that, if they knew what meaſure is intended them.</hi> In <hi>Sept.</hi> 2. from <hi>Putny</hi> 1647. hee writ letters of interceſſion to the Parliament, for ſuch men as by the Law were caſt into priſon for ſuch words as imported as much as
+<pb n="14" facs="tcp:115312:9"/>
+His Murther, as in particular of one <hi>Symball</hi> who had ſaid <hi>hee hoped to ſee the Kings head upon the Tower block;</hi> and <hi>Robt. White,</hi> who ſaid <hi>if hee meet the King hee would kill Him as ſoone as ano<g ref="char:EOLhyphen"/>ther man.</hi> In the late March of the Armie through <hi>Southwarke</hi> into <hi>Kent,</hi> when the People cried out <hi>bring home the King, bring home the King, I will bring his head upon my Pike ſaid one, upon my ſwords point ſaid another,</hi> and while a woman preſuming up<g ref="char:EOLhyphen"/>on her ſex ventured to call him villain, ſhee hardly got off with her braines in her ſcull: Of late it hath beene ſo frequent in the mouthes of the Parliament men, Members of the Army, that hardly any Member of the Houſe hath heene a ſtranger thereto; <hi>Are you ſo earneſt for your King, you may have Him to bury, you may have Him ſhorter by the head,</hi> and many more words unto this purpoſe. Doe but add the placing of <hi>Joy</hi> and ſuch principled men at <hi>Portſmouth</hi> and other places, neere the Kings reſidence, commending <hi>Rainſborough</hi> to the Navie, diſ<g ref="char:EOLhyphen"/>charging all the Kings old ſervants which hee knew, or any new, in whome hee ſeemd to have any contentment (perhaps rather ſuch as they found not for their turne) and ſetling ſuch a re<g ref="char:EOLhyphen"/>tinue about him, every one of which in probabilitie would not ſcruple to bee his aſſaſſinate, ſo it might bee done in private.</p>
+                  <p>I know that this is aſwered by the pretence of ſafe cuſtodie; but let any one conſider 1. The ſtrength &amp; faſtnes of the Caſtle. 2. The ſcituation of the Iſle in which it ſtands. 3. The guards by land, perpetually attendant, and Sentinells. 4. The guard by Sea and other advantages, and hee ſhall finde that there needed not this ſuperaddition of care but for ſome other purpoſe, and that neither King <hi>Ed.</hi> 2. was under a ſafer cuſtody either at <hi>Kenelworth</hi> or <hi>Barkely,</hi> nor <hi>Richard</hi> the ſecond at <hi>Pomfract:</hi> God divert the <hi>Omen.</hi>
+                  </p>
+               </div>
+               <div n="2" type="inference">
+                  <head>2. <hi>That the Lord</hi> Wharton <hi>is a Traitor by his own Rule, for the Concealement if hee bee not of the Con-ſpiracie in this wicked intendment.</hi>
+                  </head>
+                  <p>It is cleere that his Lordſhip was informed of this fact in writing, and that hee conceald this for above a fortnight after from the houſes of Parliament, though hee had oportunity and daily reſorted thereunto, and that hee did not ſo much as give
+<pb n="15" facs="tcp:115312:9"/>
+intimation thereof, in any Court of Juſtice, or to any perſon of power to inquire thereinto.</p>
+                  <p>His Lordſhip anſwered upon his honour (a great obligation) in the houſe, that hee ſent this Letter immediatly to <hi>Hammond;</hi> for prevention of the fact, if there was any ſuch danger. But this excuſeth not his ſilence, only involves <hi>Hammond</hi> in the guilt alſo, and may well bee interpreted not to bee intended for pre<g ref="char:EOLhyphen"/>vention, but either to ſpeede the buſineſſe, or give the Conſpira<g ref="char:EOLhyphen"/>tors time and warning to evade the accuſation. Why did not his Lordſhip write to the King, or ſend a Letter to him or de<g ref="char:EOLhyphen"/>ſire the Governor to ſhew it to his Majeſty.</p>
+                  <p>And if hee would have the world beleeve him to be innocent; let him declare the contents of the Letter he writ to <hi>Hammond,</hi> or with what haſt, or poſt, he ſent it? or by whome? hee might have remembred that 'tis adjudged Treaſon to hinder any that are going to aid the King.</p>
+                  <p>That Sir <hi>Nicholas Seagrave A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 33. <hi>Ed.</hi> 1. was in Parliament condemned to looſe his life, but for wiithdrawing himſelfe from the Kings Hoſt, and from the Kings Aid by going to the Court of <hi>Paris</hi> in <hi>France</hi> about a diſcord and contention which hee had moved againſt <hi>John de Crumblewell,</hi> &amp; <hi>leaving the King amongſt his Enimies.</hi>
+                  </p>
+                  <p>Whoſoever will add unto this that exact correſpondence which his Lordſhip holdeth with <hi>Cromwell,</hi> and that Juncto; the malice which his Lordſhip expreſſeth upon all occaſions againſt his Majeſtie: his Cowardize which all the Kindome tal<g ref="char:EOLhyphen"/>keth of, and is allwaies coupled with crueltie even in the high<g ref="char:EOLhyphen"/>eſt degree, where it can obteine an oportunity; his ingratitude which ſeldome makes a ſtop untill it aſcend the higheſt Pinacle of guilt; they may ſuſpect that this young Gentleman was ſent into ſuch Company, as fit wex to take their impreſſion, and become aſſiſtant in that intended, and horrid villany.</p>
+               </div>
+               <div n="3" type="inference">
+                  <head>3. That a great party in either houſe are conſcious of, and readie to promote that wickedneſſe.</head>
+                  <p>For how elſe durſt any one bee ſo impudent as <hi>Skippon</hi> was, to move that this information might bee laid aſide, and denie to his Majeſtie that common Juſtice which was due to every
+<pb n="16" facs="tcp:115312:10"/>
+Lacquy, or fellow in <hi>New-gate,</hi> how could it bee carried in the Houſe of Commons to that purpoſe? or admit ſo long a debate in the houſe of Peeres whether it ſhould bee conſidered? how could the Lord <hi>Wharton</hi> eſcape impriſonment? and bee ſuffered to revell it up and downe, and ſolicit all waies to make his evaſion from the Charge, whoſoever will but reflect upon former paſſages ſhall bee convinced, as in particular.</p>
+                  <p>One <hi>Hall</hi> being a ſuitor for a ſhip in the late fleete, was in<g ref="char:EOLhyphen"/>formed againſt as one under accuſation, in the Committe for the Admirallty. It was asked what that was? anſwer being made that hee had ſaid; <hi>that the Paerliament were fooles that they hired not ſome bold man to have killed the King when hee was in the hands of the Scotts.</hi> But Sir <hi>Henry Mildmay</hi> replied, <hi>Oh if you have noe more againſt him, let him goe to chooſe!</hi> Yet Sir <hi>Henry Mildmay</hi> was never ſo much as reprehended for this; but <hi>Hall</hi> although for the preſent upon a farther accuſation; that hee was a mutineere and denied obedience to his ſuperior officer, for that time was ſuſpended, but within a little while the Com<g ref="char:EOLhyphen"/>mand of a better Ship was given him.</p>
+                  <p>Divers Indictments have beene put in at the Seſſions in the <hi>Old-Bailie</hi> to the number of 17. or 18. of men for Traiterous ſpeeches within theſe 7. laſt yeares; amongſt which againſt one <hi>Pym</hi> an Inn-keeper in <hi>Biſhops-gate-ſtreete; who ſaid hee hoped to waſh his hands in the blood of the King,</hi> were withdrawn by a power from thence, and the men diſmiſſed without any puniſh<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>
+                     <hi>Cole</hi> the Speakers Secretarie hath beene heard more then once to ſay that <hi>rather than the King ſhould want one to hang Him, he would bee His Executioner:</hi> And though the Speaker had inti<g ref="char:EOLhyphen"/>mation thereof yet this man was harbored in his boſome to his death, but that was no wonder, when</p>
+                  <p>The Speaker and his Independent brother the Tradeſman have divers times declared: <hi>The King was not fit, and ſhould not bee truſted to ſit upon the throne again.</hi>
+                  </p>
+                  <p>Mr. <hi>Lilburne</hi> and divers other Agitators being ſurprized up<g ref="char:EOLhyphen"/>on the information of Mr. <hi>Maſterſon</hi> at Shore-ditch did a little while after declare unto the houſe of Commons the cauſes of their meetings and paſſages thereupon, petitioning for a diſ<g ref="char:EOLhyphen"/>charge, in which they doe expreſſe that a member of the houſe
+<pb n="17" facs="tcp:115312:10"/>
+of Commons urged <hi>that the King was to bee made away,</hi> and rather <hi>then hee ſhould not, hee offered himſelfe a</hi> Felton <hi>for that fact,</hi> yet this man ne<g ref="char:EOLhyphen"/>ver ſo much as inquired after.</p>
+                  <p>The frequent expreſſions to that effect of many of the Members. Eſpe<g ref="char:EOLhyphen"/>cially the Lord <hi>Denby,</hi> Coll. <hi>Edw. Popham, Ludlow, Martin, Morley,</hi> Sir <hi>Hen. Mildmay,</hi> Sir <hi>G. Norton,</hi> &amp;c. (To paſſe by the impudente of their Ladies, &amp; wives) even publiquely in the houſes themſelves every day.</p>
+                  <p>
+                     <hi>And the Declaration of</hi> Mr. <hi>Abraham Dowcet</hi> who alſo attended upon the Kings Perſon. Delivered under his hand, the <hi>third</hi> day of this inſtant <hi>July</hi> 1648, in the houſe of Peeres. That the ſaid Major <hi>Rolfe</hi> came unto him whilſt hee was a priſoner in <hi>Cariſbrooke Caſtle,</hi> touching the Kings intended eſcape, and in a jearing manner asked him <hi>why the King came not down according to his appointment;</hi> and afterwards in great indigna<g ref="char:EOLhyphen"/>tion and fury ſaid <hi>hee had waited three houres under the new platforme with a good Piſtoll ready charged to have received him if hee had come,</hi> one ſu<g ref="char:EOLhyphen"/>fficient to manifeſt their moſt ungodly purpoſes.</p>
+                  <p>That baſe and ſcandalous Libell or Declaration of lyes, which by their authorities was publiſhed in all Churches, and ſince with all diligence in <hi>Dutch</hi> and <hi>French;</hi> what was it but an antidated ſentence before his Majeſtie was heard one word? and what concluſion can bee parralell therewith, but execution as prepoſterous? what could it preſage, but an aſſault upon his Perſon, after the murther of his honour.</p>
+                  <p>That unworthie uſage, and thoſe vile <hi>affronts</hi> they have continually offered unto him, will make any conſiderate man conclude, they never dare looke him in the face again, whom they have ſo provoked. The Speaker of the Houſe of Commons dreamt, (and told it himſelfe) <hi>That His Majeſty came to the Houſe of Commons doore, and knocking thereat, all the Members ran away, and hid themſelves, at which hee awaked, and was verie glad, for hee was heartilie affraid alſo.</hi> Dreames are the revolutions of the daies thoughts; if hee were affrighted, at a viſion of the night, how would hee bee appaled at the Reality and Performance? A Lord in the debate of a petition for a Treatie in their houſe, was not aſhamed to ſay <hi>They had as good petition we ſhould hang our ſelves.</hi> There are very few men that can bee ſpoken withall, but thinke they doe intend to cover their ſhame in his blood, and intercept that feare by the height of this farther guilt.</p>
+               </div>
+               <div n="4" type="inference">
+                  <pb n="18" facs="tcp:115312:11"/>
+                  <head>4. <hi>That notwithſtanding all pretences to the contrarie there is like to be but a ſleight ſearch of this Villanie, and a leſſe puniſhment of the Authors.</hi>
+                  </head>
+                  <p>How can any man expect other meaſure at their hands? the world hath experience how cloſſe they ſtick one to another, how hard it is to have Ju<g ref="char:EOLhyphen"/>ſtice againſt any one of the fraternity, in what cauſe ſoever, how one man may interrupt by captious and puſling interpoſures, the proceedings of any Committee, nay of the whole Houſe; what ſtraines of art, and fine<g ref="char:EOLhyphen"/>neſſe of wit muſt wee looke for in this caſe, where ſo many of the tribe are concerned? their cauſe lies at ſtake. For my part I give up the poore Gentleman who makes the <hi>affidavit</hi> as a <hi>Victim,</hi> and foreſee bayes provi<g ref="char:EOLhyphen"/>ded for the head of the aſſaſſinate, according to former practiſes and events in the like caſe. At leaſt the buſineſſe ſhall bee huffled in a ſilent for<g ref="char:EOLhyphen"/>getfullneſſe untill the ſence of the People is worne out, and this tempeſt blown over, at which time they may ſecurely diſmiſſe their aſſociate, and revenge themſelves by ſome advantage upon their adverſaries.</p>
+               </div>
+               <div n="5" type="inference">
+                  <head>5. <hi>That wee their fellow Subjects (or rather Vaſſalls) can expect but poore Juſtice at their hands when wee have occaſion.</hi>
+                  </head>
+                  <p>If it fare thus with the <hi>Ceder,</hi> how ſhall it with the <hi>ſhrub?</hi> If they doe thus by their <hi>King,</hi> how ſhall the <hi>Subjects</hi> ſpeede? Take but the paines to turne over their Journalls, to examine their Committees, to tread upon their heeles in their eccentricall actings in their ſeverall Countries. I doubt it will bee <hi>a hard matter to finde one Act of Juſtice which hath beene done this whole ſeaven yeares,</hi> unleſſe a Member or an entire friend have had the right, and ſelfe intereſt beene the ſpurre unto it: It muſt needs bee a queſtion, when a confident of their own, even Mr. <hi>Lilburne</hi> hath proclaimed it in print, and many more of their friends; nay their Mem<g ref="char:EOLhyphen"/>bers when they are out of the walls, and in an impartiall fit doe daily con<g ref="char:EOLhyphen"/>feſſe and for injuſtice and oppreſſion you ſhall ſee ſuch Mountaines, that it may be boldly averred. That all the Courts of Juſtice, all the perſons in judicature, ſince the Conqueſt did never co<g ref="char:cmbAbbrStroke">̄</g>mit ſo many, (if they were mu<g ref="char:EOLhyphen"/>ſtred together) by the one halfe: If theſe men do behave themſelves thus whiles they are but probationers &amp; candidates of Soveraignty, we muſt ex<g ref="char:EOLhyphen"/>pect that our Judgments muſt be unrighteous, <hi>our Juſtice turned into Gall and Wormewood.</hi> Their finger ſhall bee heavier then their Loynes, and
+<pb n="19" facs="tcp:115312:11"/>
+whips turned into Scorpions, when their Empire is ſetled over us, our hands are tied and our mouthes choaked up.</p>
+               </div>
+               <div n="6" type="inference">
+                  <head>6. <hi>That the King is a rare example of Wiſdome, Patience Fortitude and other Vertues.</hi>
+                  </head>
+                  <p>Although moſt vertues bee ſtrongly concenter'd in his Majeſtie, yet theſe are the more eminent, becauſe they had the greateſt objects; becauſe his Majeſtie hath beene clothed with the contrarie vices by his enemies and expoſed into that deformitie to the world by them; as the Chriſtians, in former times were covered with the Skinnes of Beares and Woolves, that Doggs might bee the better invited to teare and worry them.</p>
+                  <p>
+                     <hi>For his Wiſdome.</hi> Marke, without prejudice his Meſſages, his Anſwers his Declarations; even as they print them in their own books. Read his Letters which were writ in private, even as they are expoſed in as bad ſcraps as they could break them, and joyn'd with a diſtorting Comment, and you ſhall be convinced of what one of their own Members ſaid; <hi>That one Lyne of his was more worth then a Volume of their owne.</hi>
+                  </p>
+                  <p>Conſider thoſe Tranſactions of his ſince they bought him of the Scotts, and you ſhall confeſſe, <hi>That in ſo little, you never read more.</hi>
+                  </p>
+                  <p>Take notice of his equall Deportment in all his Conditions, and how he hath won upon moſt perſons, even his deadly enemies, who have conver<g ref="char:EOLhyphen"/>ſed with him. <hi>Cromwell</hi> ſaid that hee employed <hi>Huntington as the Man a<g ref="char:EOLhyphen"/>bout him, yet hee is ſo bewitched with the King, that I am afraid of him.</hi>
+                  </p>
+                  <p>
+                     <hi>Col. Whaley</hi> was under jealouſie alſo, for the expreſſions he many times let fall. The very Governor of the <hi>Iſle of Wight</hi> hath given him a large Character, for all Honor and Accompliſhment, unto very many.</p>
+                  <p>Maſter <hi>Carill</hi> their Chaplain worte home to his wife from <hi>New-Caſtle, That he found him another Solomon.</hi>
+                  </p>
+                  <p>Maſter <hi>Hinderſon</hi> found this in his laſt diſcourſes and diſputes with his Majeſty, and therefore at his poenitentiall expiring, Declared him to bee <hi>a moſt Pious and a Learned Prince, and was ſorie hee had beene ſo farre injured.</hi>
+                  </p>
+                  <p>Their Tub-Preachers Maſter <hi>Kiffen</hi> and others, upon their little acquain<g ref="char:EOLhyphen"/>tance. have done him that right; and for that been ſo enamored with him; Nay the Houſes have no other Reaſon, nor none ſo great, for their feare to Treat in Perſon with him, ſuffering him to come into play, then that he is too wiſe. If you did on the other ſide ſurveigh their Actions and Councells (which ſomtimes you could not thinke but they had their riſe in <hi>Bedlam)</hi> it would render his Worth the more conſpicuous, and
+<pb n="20" facs="tcp:115312:12"/>
+you muſt confeſſe, <hi>That my Lord the King is even as an Angell of God.</hi>
+                  </p>
+                  <p>
+                     <hi>For Patience.</hi> Though Satan and his Inſtruments have winnowed him almoſt as much as <hi>Job;</hi> Though he have paſſed through the <hi>furnace of ſor<g ref="char:EOLhyphen"/>row:</hi> Though ſo many indignities and affronts have beene offered him by his Vaſſals. ſuch as have beene fed with his bread, ſuch as would have been glad to have <hi>fed with the dogs of his Flock:</hi> Yet he indured all like a Lamb, and never, that I could heare, ſo much as offended with his Lips, in impa<g ref="char:EOLhyphen"/>tient expreſſion, when the whole houſe of Commons is many times in great diſtemper (to uſe their own expreſſions) upon the wagging of a Straw, as it were, and the ſmalleſt occaſions.</p>
+                  <p>
+                     <hi>His Fortitude</hi> Is almoſt above a Miracle Hee was never obſerved to breake one nights reſt, though his chamber were beſet with Armed and ſpitefull enemies; Never to diſcover any feare, when their confuſed noiſes might ſuggeſt juſt matter to the beſt reſolution.</p>
+                  <p>Witneſſe thoſe paſſages at that time of night when <hi>Joyce</hi> offered that violence upon his perſon at <hi>Holmby,</hi> and they all confeſſed, did neither daunt, nor put him out of the carriage of a King. Hee never baulked one diſh of meate if hee liked it, though it were Cooked by the hands of a mortall enemie, and paſſed through the hands of many more.</p>
+                  <p>When on the otherſide, the whole houſe of Commons ſtartled at the falling of a little Seeling, and were likely to ſtifle one another, for feare, leaſt the skie ſhould fall. Many of them lately at St. <hi>Martins</hi> did the like nay broake through the windowes upon the fall of a board, Nay their <hi>Goliah</hi> Sir <hi>Tho. Fairfax</hi> with his other Champions were readie to die for feare of being poyſoned: Becauſe it hath ſome mirth in it you ſhall have the ſtorie at length. A Pragmaticall Cooke which had formerly ſerved the Lady <hi>Criſp</hi> in her proſperitie, hearing the Generall wanted one of his Trade, preſumes to invite him with ſome other Officers in his Ladies name to her houſe in <hi>Hamerſmith;</hi> where hee might ſhew his Skill at his owne Charges, and what a feaſt hee could make for fourtie ſhillings: The Generall and his company after they had eaten, and diſcovered that the invitation was not from the Lady, fell into a great fright, ſome of them fell verie ſick and into vomitings, purging for all the Cordialls they could take; claps up the poore Cooke by the heeles, for his requitall, and keepes him there untill many weekes had made it evident there was no danger.</p>
+                  <p>
+                     <hi>His Devotions</hi> Are more fervent and frequent then thoſe of their beſt Saints amongſt them.</p>
+                  <p>
+                     <hi>His Temperance</hi> So ſignall, that themſelves acknowledge it.</p>
+                  <p>
+                     <hi>His Clemencie</hi> So great, that his finger was never dipt in the blood of
+<pb n="21" facs="tcp:115312:12"/>
+his worſt enemies (more then they drew upon themſelves in the field) nay when they have beene at his mercy hee hath ſhewed them favour. But this Subject would fill a Volume, wee muſt bee ſhort. <hi>If his Majeſtie were a ſtranger, and had not ſuch an undoubted right and inheritance in theſe Kingdomes, and that they were Elective, his wiſdome and profound virtue would repreſent him like</hi> Saul <hi>(in that point) higher by the head then the reſt of the People; and moſt worthie to bee choſen their King.</hi>
+                  </p>
+               </div>
+               <div n="7" type="inference">
+                  <head>7. <hi>That His Majeſty ought to bee pittied above all men, and deſerves to bee reſcued from this danger by His Subjects.</hi>
+                  </head>
+                  <p>It is Treaſon by law to impriſon the perſon of the worſt King. But ſo good a Prince, in ſo barbarous a way, to be in ſo much hazard of His life; is an Act of unparalelld wickedneſſe in thoſe that doe, or allow of it. The Oath of Allegiance (which was by the Law of the Land before the Con<g ref="char:EOLhyphen"/>queſt, to bee taken by every male above 12. yeares old in the Kingdome, and hath beene actually by moſt of us) obliegeth us to it. Wherein wee ſweare.</p>
+                  <p>That wee will beare faith and true allegiance to the Kings highneſſe his Heires and lawfull Succeſſors, and to our power ſhall aſſiſt and defend all juriſdictions, priviledges, preheminences and authorities graunted or belonging to His Majeſtie, His heires and ſucceſſors, or united and anexed to the imperiall Crown of this Relme.</p>
+                  <p>In the Proteſtation wee Promiſe, Vow, and Proteſt to maintaine and defend as farre as Lawfully wee may, with our lives powers and Eſtates according to the duty of our Allegiance, His Majeſties Royall Perſon, Honour and Eſtate.</p>
+                  <p>In the Solem League and Covenant wee ſweare, ſincerely really and conſtantly; through the grace of God, in our ſeverall vocations to endea<g ref="char:EOLhyphen"/>vour with our Eſtates and lives to defend and preſerve the Kings Majeſties perſon and authoritie &amp;c. and that we have no thoughts or intentions to diminiſh His Majeſties juſt Power and greatneſſe.</p>
+                  <p>The Proteſtation which theſe verie men contrived, took, and enjoyned others to take; Engageth us.</p>
+                  <p>The Vow and Covenant exacteth as much from us too.</p>
+                  <p>And yet wee know in the debate upon the framing thereof, the obliga<g ref="char:EOLhyphen"/>tion to the King was minced upon theſe reaſons: That there were other ties of dutie towards Him and others, for the performance &amp; that make<g ref="char:EOLhyphen"/>ing ſo many and full expreſſions thereof might harden him againſt any juſt complyance.</p>
+                  <pb n="22" facs="tcp:115312:13"/>
+                  <p>Hiſtory tells us of Subjects, nay Slaves, that have thruſt themſelves be<g ref="char:EOLhyphen"/>twixt the ſtroake of death and their Princes and Maſters (who have not beene of eminent deſert) Nay, of bruite Creatures, which have, at the ſame coſt, defended their Owners; and ſhall wee the People of <hi>England,</hi> who are oblieged by duty, by ſo many Oathes and engagements to pre<g ref="char:EOLhyphen"/>ſerve the perſon of the King, ſuffer his Life to bee engaged every day by ſuch men, who by his Murther would make way to ſet their feet upon our owne necks; and, at their Pleaſure, prey upon our Liberties, our Lives and eſtates.</p>
+                  <p>Could loyall <hi>Uriah</hi> ſay, <hi>Shall I goe home to my Wife and take my reſt or comfort, when my Lord</hi> Joab, <hi>the Captaine of the</hi> Kings-Hoſt <hi>and the</hi> Kings-Army <hi>are in the ſield.</hi> And ſhall not every man, rather, ſay as much or more, <hi>Now that my Lord the King</hi> is undone and put out of all hee hath: <hi>Now that my Lord the King</hi> is kept from his Wife and Children, and ſcor<g ref="char:EOLhyphen"/>ned and reviled, and more Ballads made of him, and abuſes put upon him, then ever King <hi>David</hi> had. <hi>Now that my Lord the King</hi> is a Priſoner.</p>
+                  <p>
+                     <hi>Now that my Lord the King</hi> neither ſleepes, nor wakes, nor eates, nor drinkes in any manner of ſafety. <hi>And now that my Lord the King</hi> is in danger every hour to be murthered or poyſoned; ſhall wee now give our eye lidds any reſt? And ſhall wee not now helpe to ſave the King? <hi>Curſe yee Meroz;</hi> nay, now Mr <hi>Marſhall</hi> doe you better expound (that place of Scripture) curſe her bitterly, for not helping him; and if we cannot afford to helpe him, for the Oathes wee have made unto him, and benefits wee have received from him; yet let us reſcue our Lawes, Liberties and E<g ref="char:EOLhyphen"/>ſtates; and our own ſoules which will otherwiſe altogether muſt certain<g ref="char:EOLhyphen"/>ly dye and periſh with him.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
